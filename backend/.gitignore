@@ -1,8 +1,0 @@
-venv
-__pycache__
-.env
-Dockerfile
-fly.toml
-.dockerignore
-.DS_Store
-test.py

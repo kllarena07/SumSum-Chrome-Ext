@@ -1,0 +1,9 @@
+*/venv
+*/__pycache__
+*/test.py
+*/.env
+*/Dockerfile
+*/fly.toml
+*/.dockerignore
+*/.DS_Store
+.DS_Store
